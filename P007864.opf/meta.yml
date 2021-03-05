@@ -1,16 +1,17 @@
-id: opecha:P007864
+id: P007864
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1GS58442
   title: གཏེར་འབྱུང་ཆེན་མོ་དང་དྲི་བ་རྣམ་པར་རྒྱལ་བའི་ཁང་བཟང་སོགས
-  volume:
+  author: ''
+  volumes:
     70405c7b51864c3e9138a4527109e9b6:
       image_group_id: I1GS58444
       title: Volume 1 of gter 'byung chen mo dang dri ba rnam par rgyal ba'i khang
         bzang sogs
       volume_number: 1
       total_pages: 316
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: གཏེར་འབྱུང་ཆེན་མོ་དང་དྲི་བ་རྣམ་པར་རྒྱལ་བའི་ཁང་བཟང་སོགས
   author: ''

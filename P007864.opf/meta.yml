@@ -5,11 +5,13 @@ source_metadata:
   title: གཏེར་འབྱུང་ཆེན་མོ་དང་དྲི་བ་རྣམ་པར་རྒྱལ་བའི་ཁང་བཟང་སོགས
   author: ''
   volumes:
-    ca983746913d4ed9ae15e1f3b546c9d9:
+    70405c7b51864c3e9138a4527109e9b6:
       image_group_id: I1GS58444
-      title: ''
+      title: Volume 1 of gter 'byung chen mo dang dri ba rnam par rgyal ba'i khang
+        bzang sogs
       volume_number: 1
       total_pages: 316
+      base_file: v001.txt
 ebook_metadata:
   title: གཏེར་འབྱུང་ཆེན་མོ་དང་དྲི་བ་རྣམ་པར་རྒྱལ་བའི་ཁང་བཟང་སོགས
   author: ''
